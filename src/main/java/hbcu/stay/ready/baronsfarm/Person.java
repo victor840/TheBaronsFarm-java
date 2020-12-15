@@ -1,7 +1,7 @@
-package hbcu.stay.ready.baronsfarm.animal;
+package hbcu.stay.ready.baronsfarm;
 
 import hbcu.stay.ready.baronsfarm.interfaces.Eater;
 import hbcu.stay.ready.baronsfarm.interfaces.NoiseMaker;
 
-public interface Animal extends NoiseMaker, Eater {
+public abstract class Person implements NoiseMaker, Eater {
 }
