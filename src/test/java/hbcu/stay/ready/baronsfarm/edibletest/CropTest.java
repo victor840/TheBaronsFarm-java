@@ -1,4 +1,4 @@
-package hbcu.stay.ready.baronsfarm.producetest;
+package hbcu.stay.ready.baronsfarm.edibletest;
 
 import org.junit.Test;
 
